@@ -1,0 +1,7 @@
+{
+  "name": "Emotions101",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
